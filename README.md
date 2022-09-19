@@ -4,7 +4,7 @@
   </a>
 </p>
 <p>Hi! I'm Miriam Andrés. Frontend Developer and Artist with strong background in Graphic Design, Languages and Photography. Constantly learning new things to expand my skill set.</p>
-<p>SKILLS: HTML | SCSS | CSS | TypeScript | JavaScript | Python | Angular | MongoDB | Node.js | GIT | Photoshop | Illustrator | Figma</p>
+<p>SKILLS: HTML | SCSS | CSS | TypeScript | JavaScript | Python | Angular | MongoDB | Node.js | GIT | BEM | Photoshop | Illustrator | Figma</p>
 &nbsp;
 <p align="center">
   <a href="https://www.linkedin.com/in/miriandres/" title="linkedin.com/in/miriandres/">
